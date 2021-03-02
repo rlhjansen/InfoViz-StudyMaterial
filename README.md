@@ -14,7 +14,7 @@ such links are ofcourse better than nothing, but direct links are always better 
 
 ### material
 
-- Lecture 1 - :
+- Lecture 1 - [**Introduction**](https://docs.google.com/presentation/d/1oXJBEoSh9X2cCleRW6Acxmxlj1UsE7CKunPbExecfN0/edit?usp=sharing) - [**video**](https://youtu.be/BUNzaq-6Jws):
     -
     -
     -
@@ -29,23 +29,7 @@ such links are ofcourse better than nothing, but direct links are always better 
     -
     -
 
-- Lecture 2 - :
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-
-
-- Lecture 3 - :
+- Lecture 2 - [**Perception & cognition**](https://docs.google.com/presentation/d/1EM6P_fKpSoMCm71IIqDqfr1FvySUR9pcZX9LRP3pJe0/edit?usp=sharing) - [**video**](https://youtu.be/z7UUGzGoZYw):
     -
     -
     -
@@ -61,7 +45,7 @@ such links are ofcourse better than nothing, but direct links are always better 
     -
 
 
-- Lecture 4 - :
+- Lecture 3 - [**vidualizaiton design**](https://docs.google.com/presentation/d/1ZrNtA9JQabKY7BV_j9q_RjqUUR31UUbFXBWysK8X-LI/edit?usp=sharing) - [**video**](https://youtu.be/VAFa9oxJnVM):
     -
     -
     -
@@ -76,7 +60,23 @@ such links are ofcourse better than nothing, but direct links are always better 
     -
     -
 
-- Lecture 5 - [**Multivariate data**](https://docs.google.com/presentation/d/1dJOx2sAN6Izye7JB8AWeV00WFqIB-18W5Zue4Yommmw/edit?usp=sharing):
+
+- Lecture 4 - [**Interaction and evaluation**](https://docs.google.com/presentation/d/1MxBdkmKLAgpS0FjwOmnXuu_en7NyuPn4kSp84dIH5Po/edit?usp=sharing) - [**video**](https://youtu.be/MhsehdW2uyw):
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+
+- Lecture 5 - [**Multivariate data**](https://docs.google.com/presentation/d/1dJOx2sAN6Izye7JB8AWeV00WFqIB-18W5Zue4Yommmw/edit?usp=sharing) - [**video**](https://youtu.be/h4Nt3gu_fWk):
     - [Chung13]   D. H. S. Chung et al.: [**Glyph sorting: Interactive visualization for multi-dimensional data**](https://journals.sagepub.com/doi/pdf/10.1177/1473871613511959). Information Visualization, 14 (1), April 2013.
     - [Hinton03]   G. Hinton and S. Roweis: [**Stochastic neighbor embedding**](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.8882&rep=rep1&type=pdf). In NIPS, pp. 857 – 864, 2003.
     - [Liu17]  S. Liu et al.: Visualizing high-dimensional data: Advances in the past decade. IEEE TVCG, 23 (3), pp. 1249 – 1268, March 2017.
@@ -86,7 +86,7 @@ such links are ofcourse better than nothing, but direct links are always better 
     - [VanDerMaaten08]   L. van der Maaten and G. Hinton: Visualizing data using t-SNE. JMLR, 9 (2605), pp. 2579 – 2605, November 2008.
 
 
-- Lecture 6 - [Visual analytics](https://docs.google.com/presentation/d/1uLV02uwwsNu0O8Ja9B405J0vY1B8xP4dPc9xhw_4yKs/edit?usp=sharing):
+- Lecture 6 - [Visual analytics](https://docs.google.com/presentation/d/1uLV02uwwsNu0O8Ja9B405J0vY1B8xP4dPc9xhw_4yKs/edit?usp=sharing) - [**video**](https://youtu.be/GQ7la1EkCtY):
     - [Endert17]   A. Endert et al.: The state of the art in integrating machine learning into visual analytics: Integrating machine learning into visual analytics. Computer Graphics Forum, 36 (4), March 2017.
     - [Fayyad96]   U. Fayyad et al.: From data mining to knowledge discovery in databases. AI Mag., vol. 17, pp. 37 – 54, 1996.
     - [Gou21]   L. Gou et al.: VATLD: A visual analytics system to assess, understand and improve traffic light detection. IEEE TVCG, 27 (2), pp. 261 – 271, February 2021.
@@ -102,7 +102,7 @@ such links are ofcourse better than nothing, but direct links are always better 
     - [Yu20]   B. Yu and C. T. Silva: FlowSense: A natural language interface for visual data exploration within a dataflow system. IEEE TVCG, 26 (1), pp. 1 – 11, January 2020.
 
 
-- Lecture 7 - [Geo_temporal](https://docs.google.com/presentation/d/1WqulDC_d7IdJw55gF6IGT6x-JtXhAcmF-V9TiIKiJBs/edit?usp=sharing):
+- Lecture 7 - [Geo_temporal](https://docs.google.com/presentation/d/1WqulDC_d7IdJw55gF6IGT6x-JtXhAcmF-V9TiIKiJBs/edit?usp=sharing) - [**video**](https://youtu.be/cOYaONDk8Mk):
     - [Aigner08]   W. Aigner et al.: Visual methods for analyzing time-oriented data. IEEE TVCG, 14 (1), pp. 47 – 60, January 2008.
     - [Bak09]   P. Bak et al.: Spatiotemporal analysis of sensor logs using growth ring maps. IEEE TVCG, 15 (6), pp. 913 – 921, October 2009.
     - [Dou12]   W. Dou et al.: LeadLine: Interactive visual analysis of text data through event identification and exploration. In Proc. IEEE VAST, 2012.
@@ -115,7 +115,7 @@ such links are ofcourse better than nothing, but direct links are always better 
 
 
 
-- Lecture 8 - [graphs networks trees](https://docs.google.com/presentation/d/1-TCRn7qcIEc0vN3o1n-CVn196rOh7HiHUs-r1Ox6U_A/edit?usp=sharing):
+- Lecture 8 - [graphs networks trees](https://docs.google.com/presentation/d/1-TCRn7qcIEc0vN3o1n-CVn196rOh7HiHUs-r1Ox6U_A/edit?usp=sharing)[**video**](https://youtu.be/BBxdW4sAFLA):
     - [Brath12]   R. Brath and P. MacMurchy: Sphere-based information visualization: Challenges and benefits. In Proc. INFOVIS, 2012.
     - [Chen03]   C. Chen and S. Morris: Visualizing evolving networks: minimum spanning trees versus pathfinder networks. In Proc. INFOVIS, 2003.
     - [Henry07]   N. Henry et al.: NodeTrix: A hybrid visualization of social networks. IEEE TVCG, 13 (6), pp. 1302 – 1309, November/December 2007.
@@ -123,7 +123,7 @@ such links are ofcourse better than nothing, but direct links are always better 
     - [Kosak94]   C. Kosak et al.: Automating the layout of network diagrams with specified visual organization. IEEE TSMC, 24 (3), pp. 440 – 454, March 1994.
 
 
-- Lecture 9 - [text analytics](https://docs.google.com/presentation/d/1RIjqivhmaQGwsXne-VVVjM6q9S9C6PKZmnVxRG19GpM/edit?usp=sharing):
+- Lecture 9 - [text analytics](https://docs.google.com/presentation/d/1RIjqivhmaQGwsXne-VVVjM6q9S9C6PKZmnVxRG19GpM/edit?usp=sharing) -  [**video**](https://youtu.be/GdAoYrrpbRs):
     - [Cuenca18]   E. Cuenca et al.: MultiStream: A multiresolution streamgraph approach to explore hierarchical time series. IEEE TVCG, 24 (12), pp. 3160 – 3173, December 2018.
     - [Krstajić12]   M. Krstajić et al.: Story Tracker: Incremental visual text analytics of news story development. Information Visualization, 12 (3-4), 308 – 323, January 2012.
     - [Kucher15]   K. Kucher and A. Kerren: Text visualization techniques: Taxonomy, visual survey, and community insights. In Proc. PacificVis, 2015.
@@ -133,7 +133,7 @@ such links are ofcourse better than nothing, but direct links are always better 
     - [Viégas09]   F. Viégas et al.: Participatory visualization with Wordle. IEEE TVCG, 15 (6), pp. 1137 – 1144, November 2009.
 
 
-- Lecutre 10 - [Multimedia](https://docs.google.com/presentation/d/1dKmNm9q875hCBA9ZF54w3tYqWxH--sNtJulev-5njN0/edit?usp=sharing):
+- Lecutre 10 - [Multimedia](https://docs.google.com/presentation/d/1dKmNm9q875hCBA9ZF54w3tYqWxH--sNtJulev-5njN0/edit?usp=sharing) - [**video**]():
     - [Barthel19]   K. U. Barthel et al.: Real-time visual navigation in huge image sets using similarity graphs. In Proc. ACM MM, pp. 2202 – 2204, 2019.
     - [Chinchor10]   N. Chinchor et al.: Multimedia analysis + visual analytics = multimedia analytics. IEEE CGA, 30 (5), pp. 52 – 60, September/October 2010.
     - [DeRooij12]   O. de Rooij & M. Worring: Efficient targeted search using a focus and context video browser. ACM TOMCCAP, 8 (4), November 2012.
