@@ -2,79 +2,65 @@ List of referenced papers (optional reading), by lecture (with slides).
 
 Finding stuff takes time, so I made an overview of the material of the [**UvA Information Visualization course (2021)**](https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/79262) . **Boldface** stuff are links, to either slides or papers.
 
-### Request:
+### TODO:
 
-For some papers there are no links yet, if you find them, please make a pull request. That said: please focus on open acces version, or a download URL, as institutionally accessible URLS require [CASA](https://scholarlykitchen.sspnet.org/2018/01/22/identity-everything/) tokens (you can check this in the URL), e.g.:
+For some papers there are no links yet. Please focus on open acces version, or a download URL, as institutionally accessible URLS require [**CASA**](https://scholarlykitchen.sspnet.org/2018/01/22/identity-everything/) tokens (you can check this in the URL), e.g.:
 
 https://science.sciencemag.org/content/sci/290/5500/2319.full.pdf? **casa_token=** pKDy49Xls8kAAAAA:PET9ukk-U1KpCHchQgMoYDTdIjmHFW0PhrufsVxidHJMsYfZZZfkHUNm8J_dEvJLDQ6EBUoQ4764D9a3
 
 These tokens are basicly what allow institutional access (students like us) to function but needs to be refreshed every 30 days, which means that using those URLs as links means the overview becomes useless from a practical point in the longer term (referencing back) (as the token in the URL would need to be updated continually from an institutional server, which is against their contract with publishers most likely).
 
-such links are ofcourse better than nothing, but direct links are always better :)
+such links are ofcourse better than nothing, but direct links are always better :).
 
-### material
+### stable links:
+- semanticscholar.org
+- researchgate.net
+- sci-hub.se (search with the exact title, the left panel sometimes contains a url to share the paper, not always)
+- arxiv (usually not the finallized version of the paper, so please mention this, e.g. **This cool paper title - Arxiv -**)
+- libgen.li (if the referenced article is a book, you might find it here)
+
+###
+
+
+This is written in [**markdown, a guide/cheatsheet**](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md). Most code editors have a preview functionality or plugin for it.
+
+also: please use **boldface hyperlinks** from the **title of papers** as basis for the hyperlink, doing so structurally likely will keep things readable/searchable in this document, see **e.g.** the first few papers noted at **lecture 5 below**
+
+## material
 
 - Lecture 1 - [**Introduction**](https://docs.google.com/presentation/d/1oXJBEoSh9X2cCleRW6Acxmxlj1UsE7CKunPbExecfN0/edit?usp=sharing) - [**video**](https://youtu.be/BUNzaq-6Jws):
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
+    - [Card99]   S. K. Card et al.: Readings in information visualization: Using vision to think, Morgan Kaufmann Publishers Inc., ISBN 978-1-55860-533-6, 1999
+- [Keim08]   D. Keim et al.: Visual Analytics: Definition, Process, and Challenges. In Information Visualization, Lecture Notes in Computer Science, vol. 4950, Springer, Berlin
+- [Plaisant96]   C. Plaisant et al.: LifeLines: Visualizing personal histories. In Proc. ACM CHI, pp. 221–227, 1996
+- [Thomas05]   J. J. Thomas and K. A. Cook: Illuminating the Path: The Research and Development Agenda for Visual Analytics. United States Department of Homeland Security, 2005. Public domain.
+- [Tufte83]   E. R. Tufte: The Visual Display of Quantitative Information, 2nd ed. American Journal of Physics, 31 (11), 2001
+
 
 - Lecture 2 - [**Perception & cognition**](https://docs.google.com/presentation/d/1EM6P_fKpSoMCm71IIqDqfr1FvySUR9pcZX9LRP3pJe0/edit?usp=sharing) - [**video**](https://youtu.be/z7UUGzGoZYw):
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
+    - [Simons98]   D. J. Simmons & D. Levin: Failure to detect change in people during a real-world interaction. Psychonomic Bulletin & Review, 5 (4), pp 644 – 649, 1998
+        - This is an “optional optional” reading, for the student interested in the psychological experiment referenced in the lecture.
+    - [Ware08]   C. Ware: [**Visual Thinking for Design**](https://b-ok.cc/book/654676/87fc25). Morgan Kaufmann, ISBN 978-0-12-370896-0, 2008
 
 
-- Lecture 3 - [**vidualizaiton design**](https://docs.google.com/presentation/d/1ZrNtA9JQabKY7BV_j9q_RjqUUR31UUbFXBWysK8X-LI/edit?usp=sharing) - [**video**](https://youtu.be/VAFa9oxJnVM):
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
+- Lecture 3 - [**vidualization design**](https://docs.google.com/presentation/d/1ZrNtA9JQabKY7BV_j9q_RjqUUR31UUbFXBWysK8X-LI/edit?usp=sharing) - [**video**](https://youtu.be/VAFa9oxJnVM):
+    - [**Junk Charts**](https://junkcharts.typepad.com/)
+    - [Baldonado00]   M. Q. Wang Baldonado et al.: Guidelines for using multiple views in information visualization. In Proc. AVI, pp. 110 – 119, 2000.
+    - [Ellis07]  G. Ellis and A. Dix: A taxonomy of clutter reduction for information visualization. IEEE TVCG, 13 (6), pp. 1216 – 1223, November 2007.
+    - [Elmqvist10]  N. Elmqvist and J. D. Fekete: Hierarchical aggregation for information visualization. IEEE TVCG, 16 (3), pp. 439 – 454, May – June 2010.
+    - [VanWijk99]  J. J. van Wijk and H. van de Wetering: Cushion Treemaps: Visualization of Hierarchical Information. In Proc. IEEE Symp. InfoVis, 1999.
+
 
 
 - Lecture 4 - [**Interaction and evaluation**](https://docs.google.com/presentation/d/1MxBdkmKLAgpS0FjwOmnXuu_en7NyuPn4kSp84dIH5Po/edit?usp=sharing) - [**video**](https://youtu.be/MhsehdW2uyw):
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
+    - [North06]   C. North: Toward measuring visualization insight. IEEE CGA, 26 (3), pp. 6 – 9, May 2006.
+    - [Pike09]  W. A. Pike et al.: The science of interaction. Information Visualization, 8 (4), 2009.
+    - [Tufte83]   E. R. Tufte: The Visual Display of Quantitative Information, 2nd ed. American Journal of Physics, 31 (11), 2001
+    - [VanWijk06]   J. J. van Wijk: [**Views on visualization**](https://www.win.tue.nl/~vanwijk/vov_tvcg.pdf). IEEE TVCG, 12(4), pp. 421 – 432, July–August 2006.
+    Link:
+        - **If you read 1 optional reading for this course, this should be it**
+    - [Willett07]   W. Willett et al.: Scented widgets: Improving navigation cues with embedded visualizations. IEEE TVCG, 13 (6), pp. 1129 – 1136, November–December 2007
+    - [Yi07]   C. S. Yi et al.: Toward a deeper understanding of the role of interaction in information visualization. IEEE TVCG, 13(6), pp. 1224–1231, November–December 2007.
+
 
 - Lecture 5 - [**Multivariate data**](https://docs.google.com/presentation/d/1dJOx2sAN6Izye7JB8AWeV00WFqIB-18W5Zue4Yommmw/edit?usp=sharing) - [**video**](https://youtu.be/h4Nt3gu_fWk):
     - [Chung13]   D. H. S. Chung et al.: [**Glyph sorting: Interactive visualization for multi-dimensional data**](https://journals.sagepub.com/doi/pdf/10.1177/1473871613511959). Information Visualization, 14 (1), April 2013.
