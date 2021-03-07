@@ -4,6 +4,8 @@ Finding stuff takes time, so I made an overview of the material of the [**UvA In
 
 ### TODO:
 
+- invite only dropbox with downloaded papers, links to papers in that dropbox for papers that cannot be retrieved without acces token
+
 For some papers there are no links yet. Please focus on open acces version, or a download URL, as institutionally accessible URLS require [**CASA**](https://scholarlykitchen.sspnet.org/2018/01/22/identity-everything/) tokens (you can check this in the URL), e.g.:
 
 https://science.sciencemag.org/content/sci/290/5500/2319.full.pdf? **casa_token=** pKDy49Xls8kAAAAA:PET9ukk-U1KpCHchQgMoYDTdIjmHFW0PhrufsVxidHJMsYfZZZfkHUNm8J_dEvJLDQ6EBUoQ4764D9a3
