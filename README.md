@@ -41,7 +41,7 @@ also: please use **boldface hyperlinks** from the **title of papers** as basis f
 - Lecture 2 - [**Perception & cognition**](https://docs.google.com/presentation/d/1EM6P_fKpSoMCm71IIqDqfr1FvySUR9pcZX9LRP3pJe0/edit?usp=sharing) - [**video**](https://youtu.be/z7UUGzGoZYw):
     - [Simons98]   D. J. Simmons & D. Levin: Failure to detect change in people during a real-world interaction. Psychonomic Bulletin & Review, 5 (4), pp 644 – 649, 1998
         - This is an “optional optional” reading, for the student interested in the psychological experiment referenced in the lecture.
-    - [Ware08]   C. Ware: [**Visual Thinking for Design**](https://b-ok.cc/book/654676/87fc25). Morgan Kaufmann, ISBN 978-0-12-370896-0, 2008
+    - [Ware08]   C. Ware: [**Visual Thinking for Design**](https://1lib.nl/dl/654676/4926f4). Morgan Kaufmann, ISBN 978-0-12-370896-0, 2008
 
 
 - Lecture 3 - [**vidualization design**](https://docs.google.com/presentation/d/1ZrNtA9JQabKY7BV_j9q_RjqUUR31UUbFXBWysK8X-LI/edit?usp=sharing) - [**video**](https://youtu.be/VAFa9oxJnVM):
@@ -49,7 +49,7 @@ also: please use **boldface hyperlinks** from the **title of papers** as basis f
     - [Baldonado00]   M. Q. Wang Baldonado et al.: Guidelines for using multiple views in information visualization. In Proc. AVI, pp. 110 – 119, 2000.
     - [Ellis07]  G. Ellis and A. Dix: A taxonomy of clutter reduction for information visualization. IEEE TVCG, 13 (6), pp. 1216 – 1223, November 2007.
     - [Elmqvist10]  N. Elmqvist and J. D. Fekete: Hierarchical aggregation for information visualization. IEEE TVCG, 16 (3), pp. 439 – 454, May – June 2010.
-    - [VanWijk99]  J. J. van Wijk and H. van de Wetering: Cushion Treemaps: Visualization of Hierarchical Information. In Proc. IEEE Symp. InfoVis, 1999.
+    - [VanWijk99] J. J. van Wijk and H. van de Wetering: [Cushion Treemaps: Visualization of Hierarchical Information.]((https://www.win.tue.nl/~vanwijk/ctm.pdf)) In Proc. IEEE Symp. InfoVis, 1999.
 
 
 
@@ -134,3 +134,16 @@ also: please use **boldface hyperlinks** from the **title of papers** as basis f
     - [Zahálka14]    J. Zahálka and M. Worring: Towards interactive, intelligent, and integrated multimedia analytics. In Proc. IEEE VAST, 2014.
     - [Zahálka18]   J. Zahálka et al.: Blackthorn: Large-scale interactive multimodal learning. IEEE TMM, 20 (3), pp. 687 – 698, March 2018.
     - [Zahálka21]   J. Zahálka et al.: II-20: Intelligent and pragmatic analytic categorization of image collections. IEEE TVCG, 27 (2), pp. 422 – 431, February 2021.
+
+- lecture 11 - [**Guest lecture Jack van wijk**](https://www.win.tue.nl/~vanwijk/) - [**scholar**](https://scholar.google.nl/citations?hl=nl&user=1F_eX28AAAAJ)
+    - [VanWijk99]  J. J. van Wijk and H. van de Wetering: [**Cushion Treemaps: Visualization of Hierarchical Information**](https://www.win.tue.nl/~vanwijk/ctm.pdf). In Proc. IEEE Symp. InfoVis, 1999. (*same as lecture 3*)
+    - [kleiberg2001] E Kleiberg et al., [**Botanical Visualization of Huge Hierarchies**](http://www.ifs.tuwien.ac.at/~mlanzenberger/teaching/ps/ws03/stuff/auth/00963285.pdf)
+    - [WijkSelow99] [**Cluster and Calendar based Visualization of Time Series Data**](https://www.win.tue.nl/~vanwijk/clv.pdf)
+    - [CorputWijk17] Paul van der Corput and Jarke J. van Wijk, [**Comparing Personal Image Collections with PICTuReVis**](https://pure.tue.nl/ws/portalfiles/portal/91043945/PICTuReVis.pdf) Eurographics Conference on Visualization (EuroVis) 2017
+    - [Scheepens15] Scheepens et. al., [**Rationale Visualization for Decision Support**](http://vis.cs.ucdavis.edu/vis2014papers/VIS_Conference/infovis/posters/scheepens.pdf)
+    - [collaris18] [**Instance-Level Explanations for Fraud Detection: A Case Study**](https://arxiv.org/pdf/1806.07129.pdf)
+    - [Collaris20] [**ExplainExplore: Visual Exploration of Machine Learning Explanations**](https://pure.tue.nl/ws/portalfiles/portal/151212163/09086281.pdf)
+    - Jack van wijk framework recommendation:
+        - always changing, currently uses [dash/plotly](https://plotly.com/dash/) in his course.
+        - question reccomendation for collaborative design:
+            - student recommends [**ObservableHQ**](https://observablehq.com/)
