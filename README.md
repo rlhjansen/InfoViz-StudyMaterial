@@ -1,3 +1,6 @@
+[merged slides wetransfer](https://we.tl/t-BqsFXn5PjK)
+zip password: infoviz2021merged
+
 List of referenced papers (optional reading), by lecture (with slides).
 
 Finding stuff takes time, so I made an overview of the material of the [**UvA Information Visualization course (2021)**](https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-vak/vak/79262) . **Boldface** stuff are links, to either slides or papers.
@@ -147,3 +150,14 @@ also: please use **boldface hyperlinks** from the **title of papers** as basis f
         - always changing, currently uses [dash/plotly](https://plotly.com/dash/) in his course.
         - question reccomendation for collaborative design:
             - student recommends [**ObservableHQ**](https://observablehq.com/)
+
+- lecture 12 - [**guest lecture Stevan Rudinac Multimedia Analytics for Urban Computing**]
+    - [Sukel19] Maarten Sukel, Stevan Rudinac, Marcel Worring. 2019.[Multimodal Classification of Urban Micro-Events](https://arxiv.org/abs/1904.13349) MM '19: Proceedings of the 27th ACM International Conference on Multimedia
+    - https://dl.acm.org/doi/abs/10.1145/3372278.3390708
+    - https://dl.acm.org/doi/10.1145/3394171.3414427
+
+    - Ujjwal Sharma:
+        - http://vldb.org/pvldb/vol4/p992-sun.pdf
+        - https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf
+        - https://www.researchgate.net/publication/220515796_The_Task-Dependent_Effect_of_Tags_and_Ratings_on_Social_Media_Access
+        - https://arxiv.org/pdf/1709.05424
