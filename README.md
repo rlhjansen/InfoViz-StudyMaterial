@@ -49,7 +49,7 @@ also: please use **boldface hyperlinks** from the **title of papers** as basis f
 
 - Lecture 3 - [**vidualization design**](https://docs.google.com/presentation/d/1ZrNtA9JQabKY7BV_j9q_RjqUUR31UUbFXBWysK8X-LI/edit?usp=sharing) - [**video**](https://youtu.be/VAFa9oxJnVM):
     - [**Junk Charts**](https://junkcharts.typepad.com/)
-    - [Baldonado00]   M. Q. Wang Baldonado et al.: Guidelines for using multiple views in information visualization. In Proc. AVI, pp. 110 – 119, 2000.
+    - [**Baldonado00**] (https://classes.cs.uoregon.edu/07S/cis607p2pviz/PAPERS/p110-wang_baldonado.pdf)  M. Q. Wang Baldonado et al.: Guidelines for using multiple views in information visualization. In Proc. AVI, pp. 110 – 119, 2000.
     - [Ellis07]  G. Ellis and A. Dix: A taxonomy of clutter reduction for information visualization. IEEE TVCG, 13 (6), pp. 1216 – 1223, November 2007.
     - [Elmqvist10]  N. Elmqvist and J. D. Fekete: Hierarchical aggregation for information visualization. IEEE TVCG, 16 (3), pp. 439 – 454, May – June 2010.
     - [VanWijk99] J. J. van Wijk and H. van de Wetering: [Cushion Treemaps: Visualization of Hierarchical Information.]((https://www.win.tue.nl/~vanwijk/ctm.pdf)) In Proc. IEEE Symp. InfoVis, 1999.
