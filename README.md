@@ -13,8 +13,8 @@ also: please use **boldface titles of papers** as indicator for a link to where 
 
 ## material
 
-- Lecture 1 - [**Introduction**](https://docs.google.com/presentation/d/1oXJBEoSh9X2cCleRW6Acxmxlj1UsE7CKunPbExecfN0/edit?usp=sharing) - [**video**](https://youtu.be/BUNzaq-6Jws):
-- [Card99]   S. K. Card et al.: Readings in information visualization: Using vision to think, Morgan Kaufmann Publishers Inc., ISBN 978-1-55860-533-6, 1999
+- Lecture 1 - [**Introduction**](http://zahalka.net/static/zahalkanet/teaching/uva_infovis_21/01-introduction.pdf) - [**video**](https://youtu.be/BUNzaq-6Jws):
+- [Card99]   S. K. Card et al.: [**Readings in information visualization: Using vision to think**](https://www.researchgate.net/publication/220691172_Readings_in_Information_Visualization_Using_Vision_To_Think), Morgan Kaufmann Publishers Inc., ISBN 978-1-55860-533-6, 1999
 - [x] [Keim08]   D. Keim et al.: [**Visual Analytics: Definition, Process, and Challenges**](https://sci-hub.se/10.1007/978-3-540-70956-5_7). In Information Visualization, Lecture Notes in Computer Science, vol. 4950, Springer, Berlin
 - [x] [Plaisant96]   C. Plaisant et al.: [**LifeLines: Visualizing personal histories**](https://sci-hub.se/10.1145/238386.238493). In Proc. ACM CHI, pp. 221–227, 1996
 - [x] [Thomas05]   J. J. Thomas and K. A. Cook: [**Illuminating the Path: The Research and Development Agenda for Visual Analytics**](https://www.hsdl.org/?view&did=485291). United States Department of Homeland Security, 2005. Public domain.
@@ -22,23 +22,23 @@ also: please use **boldface titles of papers** as indicator for a link to where 
     - **not clear which is the referred reading different subsets reading material based on this source**
 
 
-- Lecture 2 - [**Perception & Cognition**](https://docs.google.com/presentation/d/1EM6P_fKpSoMCm71IIqDqfr1FvySUR9pcZX9LRP3pJe0/edit?usp=sharing) - [**video**](https://youtu.be/z7UUGzGoZYw):
+- Lecture 2 - [**Perception & Cognition**](http://zahalka.net/static/zahalkanet/teaching/uva_infovis_21/02-perception_cognition.pdf) - [**video**](https://youtu.be/z7UUGzGoZYw):
     - [x] [Simons98]   D. J. Simmons & D. Levin: [Failure to detect change in people during a real-world interaction](https://sci-hub.do/10.3758/BF03208840). Psychonomic Bulletin & Review, 5 (4), pp 644 – 649, 1998
         - This is an “optional optional” reading, for the student interested in the psychological experiment referenced in the lecture.
     - [x] [Ware08]   C. Ware: [**Visual Thinking for Design**](https://1lib.nl/dl/654676/4926f4). Morgan Kaufmann, ISBN 978-0-12-370896-0, 2008
 
 
-- Lecture 3 - [**Visualization Design**](https://docs.google.com/presentation/d/1ZrNtA9JQabKY7BV_j9q_RjqUUR31UUbFXBWysK8X-LI/edit?usp=sharing) - [**video**](https://youtu.be/VAFa9oxJnVM):
+- Lecture 3 - [**Visualization Design**](http://zahalka.net/static/zahalkanet/teaching/uva_infovis_21/03-design_basics.pdf) - [**video**](https://youtu.be/VAFa9oxJnVM):
     - [x] [**Junk Charts**](https://junkcharts.typepad.com/)
         - website, no download
     - [x] [Baldonado00]   M. Q. Wang Baldonado et al.: [**Guidelines for using multiple views in information visualization**](https://sci-hub.do/10.1145/345513.345271). In Proc. AVI, pp. 110 – 119, 2000.
     - [x] [Ellis07]  G. Ellis and A. Dix: [**A taxonomy of clutter reduction for information visualization**](https://sci-hub.do/10.1109/TVCG.2007.70535). IEEE TVCG, 13 (6), pp. 1216 – 1223, November 2007.
     - [x] [Elmqvist10]  N. Elmqvist and J. D. Fekete: [**Hierarchical aggregation for information visualization**](https://sci-hub.do/10.1109/TVCG.2009.84). IEEE TVCG, 16 (3), pp. 439 – 454, May – June 2010.
-    - [x] [VanWijk99] J. J. van Wijk and H. van de Wetering: [Cushion Treemaps: Visualization of Hierarchical Information.]((https://www.win.tue.nl/~vanwijk/ctm.pdf)) In Proc. IEEE Symp. InfoVis, 1999.
+    - [x] [VanWijk99] J. J. van Wijk and H. van de Wetering: [**Cushion Treemaps: Visualization of Hierarchical Information.**](https://www.win.tue.nl/~vanwijk/ctm.pdf) In Proc. IEEE Symp. InfoVis, 1999.
 
 
 
-- Lecture 4 - [**Interaction and Evaluation**](https://docs.google.com/presentation/d/1MxBdkmKLAgpS0FjwOmnXuu_en7NyuPn4kSp84dIH5Po/edit?usp=sharing) - [**video**](https://youtu.be/MhsehdW2uyw):
+- Lecture 4 - [**Interaction and Evaluation**](http://zahalka.net/static/zahalkanet/teaching/uva_infovis_21/04-interaction_evaluation.pdf) - [**video**](https://youtu.be/MhsehdW2uyw):
     - [x] [North06]   C. North: [**Toward measuring visualization insight**](https://sci-hub.do/10.1109/MCG.2006.70). IEEE CGA, 26 (3), pp. 6 – 9, May 2006.
     - [x] [Pike09]  W. A. Pike et al.: [**The science of interaction**](https://sci-hub.do/10.1057/ivs.2009.22). Information Visualization, 8 (4), 2009.
     - [Tufte83]   E. R. Tufte: The Visual Display of Quantitative Information, 2nd ed. American Journal of Physics, 31 (11), 2001
@@ -49,7 +49,7 @@ also: please use **boldface titles of papers** as indicator for a link to where 
     - [x] [Yi07]   C. S. Yi et al.: [Toward a deeper understanding of the role of interaction in information visualization](https://sci-hub.do/10.1109/TVCG.2007.70515). IEEE TVCG, 13(6), pp. 1224–1231, November–December 2007.
 
 
-- Lecture 5 - [**Multivariate Data**](https://docs.google.com/presentation/d/1dJOx2sAN6Izye7JB8AWeV00WFqIB-18W5Zue4Yommmw/edit?usp=sharing) - [**video**](https://youtu.be/h4Nt3gu_fWk):
+- Lecture 5 - [**Multivariate Data**](http://zahalka.net/static/zahalkanet/teaching/uva_infovis_21/05-multivariate_data.pdf) - [**video**](https://youtu.be/h4Nt3gu_fWk):
     - [x] [Chung13]   D. H. S. Chung et al.: [**Glyph sorting: Interactive visualization for multi-dimensional data**](https://sci-hub.do/10.1177/1473871613511959). Information Visualization, 14 (1), April 2013.
     - [x] [Hinton03]   G. Hinton and S. Roweis: [**Stochastic neighbor embedding**](https://papers.nips.cc/paper/2002/file/6150ccc6069bea6b5716254057a194ef-Paper.pdf). In NIPS, pp. 857 – 864, 2003.
     - [x] [Liu17]  S. Liu et al.: [**Visualizing high-dimensional data: Advances in the past decade**](https://sci-hub.se/10.1109/TVCG.2016.2640960). IEEE TVCG, 23 (3), pp. 1249 – 1268, March 2017.
@@ -63,7 +63,7 @@ also: please use **boldface titles of papers** as indicator for a link to where 
     - [x] [VanDerMaaten08]   L. van der Maaten and G. Hinton: [**Visualizing data using t-SNE**](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf). JMLR, 9 (2605), pp. 2579 – 2605, November 2008.
 
 
-- Lecture 6 - [**Visual Analytics**](https://docs.google.com/presentation/d/1uLV02uwwsNu0O8Ja9B405J0vY1B8xP4dPc9xhw_4yKs/edit?usp=sharing) - [**video**](https://youtu.be/GQ7la1EkCtY):
+- Lecture 6 - [**Visual Analytics**](http://zahalka.net/static/zahalkanet/teaching/uva_infovis_21/06-visual_analytics.pdf) - [**video**](https://youtu.be/GQ7la1EkCtY):
     - [x] [Endert17]   A. Endert et al.: [**The state of the art in integrating machine learning into visual analytics: Integrating machine learning into visual analytics.**](https://sci-hub.do/10.1111/cgf.13092) Computer Graphics Forum, 36 (4), March 2017.
     - [x] [Fayyad96]   U. Fayyad et al.: [**From data mining to knowledge discovery in databases**](https://ojs.aaai.org/index.php/aimagazine/article/download/1230/1131/). AI Mag., vol. 17, pp. 37 – 54, 1996.
     - [x] [Gou21]   L. Gou et al.: [**VATLD: A visual analytics system to assess, understand and improve traffic light detection.**](https://ieeexplore.ieee.org/abstract/document/9233993) IEEE TVCG, 27 (2), pp. 261 – 271, February 2021.
@@ -83,7 +83,7 @@ also: please use **boldface titles of papers** as indicator for a link to where 
     - [x] [Yu20]   B. Yu and C. T. Silva: [**FlowSense: A natural language interface for visual data exploration within a dataflow system**](https://sci-hub.se/10.1109/tvcg.2019.2934668). IEEE TVCG, 26 (1), pp. 1 – 11, January 2020.
 
 
-- Lecture 7 - [**Geo-Temporal**](https://docs.google.com/presentation/d/1WqulDC_d7IdJw55gF6IGT6x-JtXhAcmF-V9TiIKiJBs/edit?usp=sharing) - [**video**](https://youtu.be/cOYaONDk8Mk):
+- Lecture 7 - [**Geo-Temporal**](http://zahalka.net/static/zahalkanet/teaching/uva_infovis_21/07-geo_temporal.pdf) - [**video**](https://youtu.be/cOYaONDk8Mk):
     - [x] [Aigner08]   W. Aigner et al.: [**Visual methods for analyzing time-oriented data**](https://sci-hub.se/10.1109/tvcg.2009.182). IEEE TVCG, 14 (1), pp. 47 – 60, January 2008.
     - [x] [Bak09]   P. Bak et al.: [**Spatiotemporal analysis of sensor logs using growth ring maps**](https://sci-hub.se/10.1109/tvcg.2009.182). IEEE TVCG, 15 (6), pp. 913 – 921, October 2009.
     - [x] [Dou12]   W. Dou et al.: [**LeadLine: Interactive visual analysis of text data through event identification and exploration**](https://sci-hub.se/10.1109/vast.2012.6400485). In Proc. IEEE VAST, 2012.
@@ -96,7 +96,7 @@ also: please use **boldface titles of papers** as indicator for a link to where 
 
 
 
-- Lecture 8 - [**Graphs Networks Trees**](https://docs.google.com/presentation/d/1-TCRn7qcIEc0vN3o1n-CVn196rOh7HiHUs-r1Ox6U_A/edit?usp=sharing) - [**video**](https://youtu.be/BBxdW4sAFLA):
+- Lecture 8 - [**Graphs Networks Trees**](http://zahalka.net/static/zahalkanet/teaching/uva_infovis_21/08-graphs_networks_trees.pdf) - [**video**](https://youtu.be/BBxdW4sAFLA):
     - [x] [Brath12]   R. Brath and P. MacMurchy: [**Sphere-based information visualization: Challenges and benefits**](https://sci-hub.se/10.1109/iv.2012.11). In Proc. INFOVIS, 2012.
     - [x] [Chen03]   C. Chen and S. Morris: [**Visualizing evolving networks: minimum spanning trees versus pathfinder networks**](https://sci-hub.se/10.1109/INFVIS.2003.1249010). In Proc. INFOVIS, 2003.
     - [x] [Henry07]   N. Henry et al.: [**NodeTrix: A hybrid visualization of social networks**](https://sci-hub.se/10.1109/TVCG.2007.70582). IEEE TVCG, 13 (6), pp. 1302 – 1309, November/December 2007.
@@ -104,7 +104,7 @@ also: please use **boldface titles of papers** as indicator for a link to where 
     - [x] [Kosak94]   C. Kosak et al.: [**Automating the layout of network diagrams with specified visual organization**](https://sci-hub.se/10.1109/21.278993). IEEE TSMC, 24 (3), pp. 440 – 454, March 1994.
 
 
-- Lecture 9 - [**text analytics**](https://docs.google.com/presentation/d/1RIjqivhmaQGwsXne-VVVjM6q9S9C6PKZmnVxRG19GpM/edit?usp=sharing) -  [**video**](https://youtu.be/GdAoYrrpbRs):
+- Lecture 9 - [**text analytics**](http://zahalka.net/static/zahalkanet/teaching/uva_infovis_21/09-text_analytics.pdf) -  [**video**](https://youtu.be/GdAoYrrpbRs):
     - [x] [Cuenca18]   E. Cuenca et al.: [**MultiStream: A multiresolution streamgraph approach to explore hierarchical time series**](https://sci-hub.se/10.1109/tvcg.2018.2796591). IEEE TVCG, 24 (12), pp. 3160 – 3173, December 2018.
     - [x] [Krstajić12]   M. Krstajić et al.: [**Story Tracker: Incremental visual text analytics of news story development**](https://sci-hub.se/10.1177/1473871613493996). Information Visualization, 12 (3-4), 308 – 323, January 2012.
     - [x] [Kucher15]   K. Kucher and A. Kerren: [**Text visualization techniques: Taxonomy, visual survey, and community insights**](https://sci-hub.se/10.1109/pacificvis.2015.7156366). In Proc. PacificVis, 2015.
@@ -114,7 +114,7 @@ also: please use **boldface titles of papers** as indicator for a link to where 
     - [x] [Viégas09]   F. Viégas et al.: [**Participatory visualization with Wordle**](https://sci-hub.se/10.1109/tvcg.2009.171). IEEE TVCG, 15 (6), pp. 1137 – 1144, November 2009.
 
 
-- Lecutre 10 - [**Multimedia**](https://docs.google.com/presentation/d/1dKmNm9q875hCBA9ZF54w3tYqWxH--sNtJulev-5njN0/edit?usp=sharing) - [**video**]():
+- Lecture 10 - [**Multimedia**](http://zahalka.net/static/zahalkanet/teaching/uva_infovis_21/10-multimedia_analytics.pdf) - [**video**]():
     - [x] [Barthel19]   K. U. Barthel et al.: [**Real-time visual navigation in huge image sets using similarity graphs - Arxiv**](https://arxiv.org/pdf/1910.06005.pdf). In Proc. ACM MM, pp. 2202 – 2204, 2019.
         - [**non-arxiv version**](https://dl.acm.org/doi/10.1145/3343031.3350599)
     - [x] [Chinchor10]   N. Chinchor et al.: [**Multimedia analysis + visual analytics = multimedia analytics**](https://sci-hub.se/10.1109/MCG.2010.92). IEEE CGA, 30 (5), pp. 52 – 60, September/October 2010.
@@ -131,7 +131,7 @@ also: please use **boldface titles of papers** as indicator for a link to where 
     - [x] [Zahálka18]   J. Zahálka et al.: [**Blackthorn: Large-scale interactive multimodal learning**](https://sci-hub.se/10.1109/tmm.2017.2755986). IEEE TMM, 20 (3), pp. 687 – 698, March 2018.
     - [x] [Zahálka21]   J. Zahálka et al.: II-20: [**Intelligent and pragmatic analytic categorization of image collections**](https://sci-hub.se/10.1109/TVCG.2020.3030383). IEEE TVCG, 27 (2), pp. 422 – 431, February 2021.
 
-- lecture 11 - [**Guest lecture Jack van wijk**](https://www.win.tue.nl/~vanwijk/) - [**scholar**](https://scholar.google.nl/citations?hl=nl&user=1F_eX28AAAAJ)
+- lecture 11 - [**Guest lecture Jack van Wijk**](https://www.win.tue.nl/~vanwijk/) - [**lecture link**](http://zahalka.net/static/zahalkanet/teaching/uva_infovis_21/11-jack.pdf) - [**scholar**](https://scholar.google.nl/citations?hl=nl&user=1F_eX28AAAAJ)
     - [x] [VanWijk99]  J. J. van Wijk and H. van de Wetering: [**Cushion Treemaps: Visualization of Hierarchical Information**](https://www.win.tue.nl/~vanwijk/ctm.pdf). In Proc. IEEE Symp. InfoVis, 1999. (*same as lecture 3*)
         - mentioned before in lecture 3
     - [x] [kleiberg2001] E Kleiberg et al., [**Botanical Visualization of Huge Hierarchies**](http://www.ifs.tuwien.ac.at/~mlanzenberger/teaching/ps/ws03/stuff/auth/00963285.pdf)
@@ -145,7 +145,7 @@ also: please use **boldface titles of papers** as indicator for a link to where 
         - question reccomendation for collaborative design:
             - student recommends [**ObservableHQ**](https://observablehq.com/)
 
-- lecture 12 - [guest lecture Stevan Rudinac Multimedia Analytics for Urban Computing]
+- lecture 12 - [guest lecture Stevan Rudinac & Ujjwal Sharma Multimedia Analytics for Urban Computing] - [**Stevan's talk**](http://zahalka.net/static/zahalkanet/teaching/uva_infovis_21/12-stevan.pdf) – [**Ujjwal's talk**](http://zahalka.net/static/zahalkanet/teaching/uva_infovis_21/12-ujjwal.pdf)
     - [x] [Sukel19] Maarten Sukel, Stevan Rudinac, Marcel Worring. 2019.[**Multimodal Classification of Urban Micro-Events**](https://sci-hub.se/10.1145/3343031.3350967) MM '19: Proceedings of the 27th ACM International Conference on Multimedia
     - [x] [**Urban Object Detection Kit: A System for Collection and Analysis of Street-Level Imagery**](https://dl.acm.org/doi/pdf/10.1145/3372278.3390708)
     - [x] [**Detecting Urban Issues With the Object Detection Kit**](https://dl.acm.org/doi/10.1145/3394171.3414427)
