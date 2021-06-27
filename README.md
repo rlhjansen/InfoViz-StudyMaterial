@@ -145,7 +145,7 @@ also: please use **boldface titles of papers** as indicator for a link to where 
         - question reccomendation for collaborative design:
             - student recommends [**ObservableHQ**](https://observablehq.com/)
 
-- lecture 12 - [guest lecture Stevan Rudinac & Ujjwal Sharma Multimedia Analytics for Urban Computing] - [**Stevan's talk**](http://zahalka.net/static/zahalkanet/teaching/uva_infovis_21/12-stevan.pdf) – [**Ujjwal's talk**](http://zahalka.net/static/zahalkanet/teaching/uva_infovis_21/12-ujjwal.pdf)
+- lecture 12 - [guest lecture Stevan Rudinac & Ujjwal Sharma Multimedia Analytics for Urban Computing] – [**Stevan's talk**](http://zahalka.net/static/zahalkanet/teaching/uva_infovis_21/12-stevan.pdf) – [**Stevan's scholar page**](https://scholar.google.com/citations?user=9o9fZfcAAAAJ&hl=en&oi=ao) – [**Ujjwal's talk**](http://zahalka.net/static/zahalkanet/teaching/uva_infovis_21/12-ujjwal.pdf) – [**Ujjwal's scholar page**](https://scholar.google.com/citations?user=T4NC4o0AAAAJ&hl=en&oi=ao)
     - [x] [Sukel19] Maarten Sukel, Stevan Rudinac, Marcel Worring. 2019.[**Multimodal Classification of Urban Micro-Events**](https://sci-hub.se/10.1145/3343031.3350967) MM '19: Proceedings of the 27th ACM International Conference on Multimedia
     - [x] [**Urban Object Detection Kit: A System for Collection and Analysis of Street-Level Imagery**](https://dl.acm.org/doi/pdf/10.1145/3372278.3390708)
     - [x] [**Detecting Urban Issues With the Object Detection Kit**](https://dl.acm.org/doi/10.1145/3394171.3414427)
